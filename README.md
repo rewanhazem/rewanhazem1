@@ -1,7 +1,6 @@
 # rewanhazem1
 My personal profile
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Rewan Hazem's profile!
@@ -15,7 +14,7 @@ My personal profile
 
 - 🏢 I'm a Software Engineer student
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 💬 Ask me about my experience .
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio to see some of the projects I've worked on.
 
